@@ -37,7 +37,19 @@
         <item name="android:actionModeBackground">@drawable/cab_background_top_ribit</item>
         <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_ribit</item>
         <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Ribit</item>
+        <item name="android:actionOverflowButtonStyle">@style/Theme.Ribit.Overflow</item>
+        <item name="android:listViewStyle">@style/Theme.Ribit.LightPrupleBackground</item>
+        <item name="android:gridViewStyle">@style/Theme.Ribit.LightPrupleBackground</item>
 
+
+    </style>
+    <style name="Theme.Ribit.LightPrupleBackground">
+
+        <item name="android:background">@color/light_purple_backgound</item>
+    </style>
+    
+    <style name="Theme.Ribit.Overflow" parent="android:Widget.ActionButton.Overflow">
+            <item name="android:src">@drawable/ic_menu_overflow</item>
 
     </style>
 
@@ -46,7 +58,15 @@
         <item name="android:backgroundStacked">@drawable/ab_stacked_solid_ribit</item>
         <item name="android:backgroundSplit">@drawable/ab_bottom_solid_ribit</item>
         <item name="android:progressBarStyle">@style/ProgressBar.Ribit</item>
+        <item name="android:titleTextStyle">@style/ActionBar.Solid.Ribit.TitleTextStyle</item>
     </style>
+    <style name="ActionBar.Solid.Ribit.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+
+
 
     <style name="ActionBar.Transparent.Ribit" parent="@android:style/Widget.Holo.Light.ActionBar">
         <item name="android:background">@drawable/ab_transparent_ribit</item>

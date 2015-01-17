@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit;
+package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
 
 import java.util.List;
 
@@ -16,6 +16,8 @@ import com.parse.ParseException;
 import com.parse.ParseQuery;
 import com.parse.ParseRelation;
 import com.parse.ParseUser;
+import com.teamtreehouse.ribbit.ParseConstants;
+import com.teamtreehouse.ribbit.R;
 
 public class FriendsFragment extends ListFragment {
 	

@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit;
+package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -11,6 +11,7 @@ import android.view.MenuItem;
 import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
+import com.teamtreehouse.ribbit.R;
 
 public class ViewImageActivity extends Activity {
 

@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit;
+package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,6 +18,9 @@ import com.parse.ParseFile;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
+import com.teamtreehouse.ribbit.MessageAdapter;
+import com.teamtreehouse.ribbit.ParseConstants;
+import com.teamtreehouse.ribbit.R;
 
 public class InboxFragment extends ListFragment {
 

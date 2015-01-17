@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit;
+package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -27,6 +27,9 @@ import android.widget.Toast;
 
 import com.parse.ParseAnalytics;
 import com.parse.ParseUser;
+import com.teamtreehouse.ribbit.ParseConstants;
+import com.teamtreehouse.ribbit.R;
+import com.teamtreehouse.ribbit.SectionsPagerAdapter;
 
 public class MainActivity extends FragmentActivity implements
 		ActionBar.TabListener {
@@ -213,8 +216,9 @@ public class MainActivity extends FragmentActivity implements
 			// the TabListener interface, as the callback (listener) for when
 			// this tab is selected.
 			actionBar.addTab(actionBar.newTab()
-					.setText(mSectionsPagerAdapter.getPageTitle(i))
-					.setTabListener(this));
+                    .setIcon(mSectionsPagerAdapter.getIcon(i))
+
+                    .setTabListener(this));
 		}
 	}
 	

@@ -16,19 +16,22 @@ public final class R {
     public static final class color {
         public static final int background_purple=0x7f050000;
         public static final int focused_purple_button=0x7f050001;
-        public static final int light_purple_button=0x7f050002;
-        public static final int login_hint_text=0x7f050003;
-        public static final int pressed_purple_button=0x7f050004;
-        public static final int ribbit_color=0x7f050005;
-        public static final int text_color=0x7f050006;
+        public static final int light_purple_backgound=0x7f050002;
+        public static final int light_purple_button=0x7f050003;
+        public static final int login_hint_text=0x7f050004;
+        public static final int pressed_purple_button=0x7f050005;
+        public static final int ribbit_color=0x7f050006;
+        public static final int text_color=0x7f050007;
     }
     public static final class dimen {
         public static final int activity_horizontal_margin=0x7f060000;
         public static final int activity_vertical_margin=0x7f060001;
-        public static final int login_horizontal_padding=0x7f060002;
-        public static final int login_vertical_margin=0x7f060003;
-        public static final int login_vertical_padding=0x7f060004;
-        public static final int message_list_item_vertical_margin=0x7f060005;
+        public static final int inbox_horizontal_margin=0x7f060002;
+        public static final int inbox_vertical_margin=0x7f060003;
+        public static final int login_horizontal_padding=0x7f060004;
+        public static final int login_vertical_margin=0x7f060005;
+        public static final int login_vertical_padding=0x7f060006;
+        public static final int message_list_item_vertical_margin=0x7f060007;
     }
     public static final class drawable {
         public static final int ab_background_textured_ribit=0x7f020000;
@@ -178,9 +181,10 @@ public final class R {
     }
     public static final class style {
         public static final int ActionBar_Solid_Ribit=0x7f080000;
-        public static final int ActionBar_Transparent_Ribit=0x7f080001;
-        public static final int ActionBarTabStyle_Ribit=0x7f080002;
-        public static final int ActionButton_CloseMode_Ribit=0x7f080003;
+        public static final int ActionBar_Solid_Ribit_TitleTextStyle=0x7f080001;
+        public static final int ActionBar_Transparent_Ribit=0x7f080002;
+        public static final int ActionBarTabStyle_Ribit=0x7f080003;
+        public static final int ActionButton_CloseMode_Ribit=0x7f080004;
         /** 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
@@ -189,26 +193,28 @@ public final class R {
  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f080004;
+        public static final int AppBaseTheme=0x7f080005;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f080005;
-        public static final int AuthBackground=0x7f080006;
-        public static final int AuthBackgroundImage=0x7f080007;
-        public static final int AuthButton=0x7f080008;
-        public static final int AuthEditText=0x7f080009;
-        public static final int AuthFieldContainer=0x7f08000a;
-        public static final int AuthSubTitle=0x7f08000b;
-        public static final int AuthTitle=0x7f08000c;
-        public static final int ButtonRibbit=0x7f08000d;
-        public static final int DropDownListView_Ribit=0x7f08000e;
-        public static final int DropDownNav_Ribit=0x7f08000f;
-        public static final int EditTextRibbit=0x7f080010;
-        public static final int PopupMenu_Ribit=0x7f080011;
-        public static final int ProgressBar_Ribit=0x7f080012;
-        public static final int Ribbit=0x7f080013;
-        public static final int Theme_Ribit=0x7f080014;
-        public static final int Theme_Ribit_Widget=0x7f080015;
-        public static final int _Ribbit=0x7f080016;
+        public static final int AppTheme=0x7f080006;
+        public static final int AuthBackground=0x7f080007;
+        public static final int AuthBackgroundImage=0x7f080008;
+        public static final int AuthButton=0x7f080009;
+        public static final int AuthEditText=0x7f08000a;
+        public static final int AuthFieldContainer=0x7f08000b;
+        public static final int AuthSubTitle=0x7f08000c;
+        public static final int AuthTitle=0x7f08000d;
+        public static final int ButtonRibbit=0x7f08000e;
+        public static final int DropDownListView_Ribit=0x7f08000f;
+        public static final int DropDownNav_Ribit=0x7f080010;
+        public static final int EditTextRibbit=0x7f080011;
+        public static final int PopupMenu_Ribit=0x7f080012;
+        public static final int ProgressBar_Ribit=0x7f080013;
+        public static final int Ribbit=0x7f080014;
+        public static final int Theme_Ribit=0x7f080015;
+        public static final int Theme_Ribit_LightPrupleBackground=0x7f080016;
+        public static final int Theme_Ribit_Overflow=0x7f080017;
+        public static final int Theme_Ribit_Widget=0x7f080018;
+        public static final int _Ribbit=0x7f080019;
     }
 }

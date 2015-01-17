@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit;
+package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,6 +25,9 @@ import com.parse.ParseQuery;
 import com.parse.ParseRelation;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.teamtreehouse.ribbit.FileHelper;
+import com.teamtreehouse.ribbit.ParseConstants;
+import com.teamtreehouse.ribbit.R;
 
 public class RecipientsActivity extends ListActivity {
 

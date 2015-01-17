@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit;
+package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -14,6 +14,7 @@ import android.widget.TextView;
 import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
+import com.teamtreehouse.ribbit.R;
 
 public class LoginActivity extends Activity {
 
