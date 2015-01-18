@@ -104,45 +104,44 @@ public final class R {
         public static final int tab_unselected_ribit=0x7f02003d;
     }
     public static final class id {
-        public static final int action_camera=0x7f0a0018;
-        public static final int action_edit_friends=0x7f0a0016;
-        public static final int action_logout=0x7f0a0017;
-        public static final int action_send=0x7f0a0019;
+        public static final int action_camera=0x7f0a0019;
+        public static final int action_edit_friends=0x7f0a0017;
+        public static final int action_logout=0x7f0a0018;
+        public static final int action_send=0x7f0a001a;
         public static final int buttonDivider=0x7f0a000a;
         public static final int cancelButton=0x7f0a000c;
+        public static final int checkImageView=0x7f0a0015;
         public static final int editTextLayout=0x7f0a0003;
         public static final int emailField=0x7f0a0009;
-        public static final int friendsGrid=0x7f0a000e;
+        public static final int friendsGrid=0x7f0a0013;
         public static final int imageView=0x7f0a000d;
         public static final int imageView2=0x7f0a0000;
         public static final int loginButton=0x7f0a0006;
-        public static final int messageIcon=0x7f0a0011;
-        public static final int nameLabel=0x7f0a0015;
+        public static final int messageIcon=0x7f0a0010;
+        public static final int nameLabel=0x7f0a0016;
         public static final int pager=0x7f0a0008;
         public static final int passwordField=0x7f0a0005;
-        public static final int section_label=0x7f0a0010;
-        public static final int senderLabel=0x7f0a0012;
+        public static final int section_label=0x7f0a000f;
+        public static final int senderLabel=0x7f0a0011;
         public static final int signUpText=0x7f0a0007;
         public static final int signupButton=0x7f0a000b;
         public static final int subTitle=0x7f0a0002;
-        public static final int swipeRefreshLayout=0x7f0a000f;
-        public static final int timeLabel=0x7f0a0013;
+        public static final int swipeRefreshLayout=0x7f0a000e;
+        public static final int timeLabel=0x7f0a0012;
         public static final int title=0x7f0a0001;
         public static final int userImageView=0x7f0a0014;
         public static final int usernameField=0x7f0a0004;
     }
     public static final class layout {
-        public static final int activity_edit_friends=0x7f030000;
-        public static final int activity_login=0x7f030001;
-        public static final int activity_main=0x7f030002;
-        public static final int activity_recipients=0x7f030003;
-        public static final int activity_sign_up=0x7f030004;
-        public static final int activity_view_image=0x7f030005;
-        public static final int user_grid =0x7f030006;
-        public static final int fragment_inbox=0x7f030007;
-        public static final int fragment_main_dummy=0x7f030008;
-        public static final int message_item=0x7f030009;
-        public static final int user_item=0x7f03000a;
+        public static final int activity_login=0x7f030000;
+        public static final int activity_main=0x7f030001;
+        public static final int activity_sign_up=0x7f030002;
+        public static final int activity_view_image=0x7f030003;
+        public static final int fragment_inbox=0x7f030004;
+        public static final int fragment_main_dummy=0x7f030005;
+        public static final int message_item=0x7f030006;
+        public static final int user_grid=0x7f030007;
+        public static final int user_item=0x7f030008;
     }
     public static final class menu {
         public static final int main=0x7f090000;
@@ -220,14 +219,15 @@ public final class R {
         public static final int DropDownListView_Ribit=0x7f08000f;
         public static final int DropDownNav_Ribit=0x7f080010;
         public static final int EditTextRibbit=0x7f080011;
-        public static final int PopupMenu_Ribit=0x7f080012;
-        public static final int ProgressBar_Ribit=0x7f080013;
-        public static final int Ribbit=0x7f080014;
-        public static final int Theme_Ribit=0x7f080015;
-        public static final int Theme_Ribit_LightPrupleBackground=0x7f080016;
-        public static final int Theme_Ribit_LightPrupleBackground_GridView=0x7f080017;
-        public static final int Theme_Ribit_Overflow=0x7f080018;
-        public static final int Theme_Ribit_Widget=0x7f080019;
-        public static final int _Ribbit=0x7f08001a;
+        public static final int GridImage=0x7f080012;
+        public static final int PopupMenu_Ribit=0x7f080013;
+        public static final int ProgressBar_Ribit=0x7f080014;
+        public static final int Ribbit=0x7f080015;
+        public static final int Theme_Ribit=0x7f080016;
+        public static final int Theme_Ribit_LightPrupleBackground=0x7f080017;
+        public static final int Theme_Ribit_LightPrupleBackground_GridView=0x7f080018;
+        public static final int Theme_Ribit_Overflow=0x7f080019;
+        public static final int Theme_Ribit_Widget=0x7f08001a;
+        public static final int _Ribbit=0x7f08001b;
     }
 }
