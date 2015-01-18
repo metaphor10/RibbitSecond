@@ -29,7 +29,7 @@ import com.parse.ParseAnalytics;
 import com.parse.ParseUser;
 import com.teamtreehouse.ribbit.ParseConstants;
 import com.teamtreehouse.ribbit.R;
-import com.teamtreehouse.ribbit.SectionsPagerAdapter;
+import com.teamtreehouse.ribbit.adapters.SectionsPagerAdapter;
 
 public class MainActivity extends FragmentActivity implements
 		ActionBar.TabListener {

@@ -46,6 +46,7 @@
     <style name="Theme.Ribit.LightPrupleBackground">
 
         <item name="android:background">@color/light_purple_backgound</item>
+        <item name="android:divider">@null</item>
     </style>
     
     <style name="Theme.Ribit.Overflow" parent="android:Widget.ActionButton.Overflow">
