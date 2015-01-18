@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
+package com.teamtreehouse.ribbit.ui;
 
 import android.app.ActionBar;
 import android.app.Activity;

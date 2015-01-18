@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
+package com.teamtreehouse.ribbit.ui;
 
 import java.util.Timer;
 import java.util.TimerTask;

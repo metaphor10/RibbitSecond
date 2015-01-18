@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit;
+package com.teamtreehouse.ribbit.Utils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

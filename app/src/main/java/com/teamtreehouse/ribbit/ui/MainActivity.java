@@ -1,4 +1,4 @@
-package com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui;
+package com.teamtreehouse.ribbit.ui;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -27,7 +27,7 @@ import android.widget.Toast;
 
 import com.parse.ParseAnalytics;
 import com.parse.ParseUser;
-import com.teamtreehouse.ribbit.ParseConstants;
+import com.teamtreehouse.ribbit.Utils.ParseConstants;
 import com.teamtreehouse.ribbit.R;
 import com.teamtreehouse.ribbit.adapters.SectionsPagerAdapter;
 

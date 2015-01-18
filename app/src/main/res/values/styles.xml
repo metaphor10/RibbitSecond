@@ -39,7 +39,7 @@
         <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Ribit</item>
         <item name="android:actionOverflowButtonStyle">@style/Theme.Ribit.Overflow</item>
         <item name="android:listViewStyle">@style/Theme.Ribit.LightPrupleBackground</item>
-        <item name="android:gridViewStyle">@style/Theme.Ribit.LightPrupleBackground</item>
+        <item name="android:gridViewStyle">@style/Theme.Ribit.LightPrupleBackground.GridView</item>
 
 
     </style>
@@ -47,6 +47,11 @@
 
         <item name="android:background">@color/light_purple_backgound</item>
         <item name="android:divider">@null</item>
+    </style>
+    <style name="Theme.Ribit.LightPrupleBackground.GridView">
+
+        <item name="android:padding">@dimen/user_grid_spacing</item>
+
     </style>
     
     <style name="Theme.Ribit.Overflow" parent="android:Widget.ActionButton.Overflow">

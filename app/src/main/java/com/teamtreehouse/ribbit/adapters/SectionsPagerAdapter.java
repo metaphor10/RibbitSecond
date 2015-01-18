@@ -8,8 +8,8 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 import com.teamtreehouse.ribbit.R;
-import com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui.FriendsFragment;
-import com.teamtreehouse.ribbit.com.teamtreehouse.ribbit.ui.InboxFragment;
+import com.teamtreehouse.ribbit.ui.FriendsFragment;
+import com.teamtreehouse.ribbit.ui.InboxFragment;
 
 /**
  * A {@link FragmentPagerAdapter} that returns a fragment corresponding to
