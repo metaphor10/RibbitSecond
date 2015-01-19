@@ -50,5 +50,6 @@
     <string name="title_activity_view_image">Ribbit</string>
     <string name="subtitle_text">A Treehouse Project</string>
     <string name="cancel_button_label">CANCEL</string>
+    <string name="push_message">"You have a new Ribbit messeage from %s"</string>
 
 </resources>

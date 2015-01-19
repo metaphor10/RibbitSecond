@@ -2,11 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\arielb\AndroidStudioProjects\Ribbit1\app\libs\Parse-1.3.9.jar"
+        jar="C:\Users\arielb\AndroidStudioProjects\Ribbit1\app\libs\bolts-android-1.1.4.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
-        <dex dex="C:\Users\arielb\AndroidStudioProjects\Ribbit1\app\build\intermediates\pre-dexed\debug\Parse-1.3.9-d6ba4fc7ce8cedc2855fa9feec41569a594c0216.jar" />
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\arielb\AndroidStudioProjects\Ribbit1\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-5e3615908fb303b9968775cb6fa3b3bf872dba2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\arielb\AndroidStudioProjects\Ribbit1\app\libs\Parse-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd491448169a0c142a786164b249139d2407a6f9">
+        <dex dex="C:\Users\arielb\AndroidStudioProjects\Ribbit1\app\build\intermediates\pre-dexed\debug\Parse-1.8.1-32444de2d798b87b95aaaf7c9634adfb2df55185.jar" />
     </item>
     <item
         jar="C:\Users\arielb\AndroidStudioProjects\Ribbit1\app\libs\picasso-2.1.1.jar"
